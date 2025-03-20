@@ -1,0 +1,8 @@
+{
+    "name": "al/plnmanagement",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "phpoffice/phpspreadsheet": "^4.1"
+    }
+}
